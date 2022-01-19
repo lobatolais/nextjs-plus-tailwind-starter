@@ -12,7 +12,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Page Title</title>
         <meta name="description" content="Page description" />
-        <div>{'teste'}</div>
       </Head>
     </>
   )
